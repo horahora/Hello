@@ -1,6 +1,6 @@
 {
   "name": "Hello",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "这是一个崭新的世界 第二行   远程添加的一行",
   "main": "index.js",
   "scripts": {
