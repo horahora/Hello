@@ -1,0 +1,24 @@
+{
+  "name": "Hello",
+  "version": "1.0.0",
+  "description": "这是一个崭新的世界 第二行   远程添加的一行",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horahora/Hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horahora/Hello/issues"
+  },
+  "homepage": "https://github.com/horahora/Hello#readme",
+  "devDependencies": {
+    "standard-version": "^7.0.0"
+  }
+}
